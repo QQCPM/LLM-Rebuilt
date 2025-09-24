@@ -1,4 +1,4 @@
-# GPT-2 Rebuild: 4-Hour Implementation Project
+# GPT-2 Rebuild:
 
 This project implements GPT-2 (124M) from scratch following Andrej Karpathy's comprehensive 4-hour tutorial. The implementation focuses on understanding the deep technical details of modern language model training.
 
