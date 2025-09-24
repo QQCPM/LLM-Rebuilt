@@ -1,0 +1,27 @@
+# Core dependencies for GPT-2 implementation
+# Note: Install PyTorch first with conda for best compatibility:
+# conda install pytorch torchvision torchaudio -c pytorch
+
+# Essential dependencies
+numpy>=1.24.0
+transformers>=4.21.0
+tiktoken>=0.4.0
+datasets>=2.12.0
+requests>=2.28.0
+
+# Training and monitoring
+wandb>=0.15.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# Evaluation
+evaluate>=0.4.0
+
+# Development and testing
+pytest>=7.0.0
+black>=23.0.0
+isort>=5.12.0
+
+# Optional optimizations (install after PyTorch)
+# flash-attn>=2.0.0  # Uncomment after PyTorch is installed
+# Requires: pip install flash-attn --no-build-isolation
