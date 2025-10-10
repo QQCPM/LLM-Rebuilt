@@ -1,0 +1,5 @@
+/Users/lending/Library/Python/3.9/lib/python/site-packages/torch/amp/autocast_mode.py:346: UserWarning: In MPS autocast, but the target dtype is not supported. Disabling autocast.
+MPS Autocast only supports dtype of torch.bfloat16 and torch.float16 currently.
+  warnings.warn(error_message)
+/Users/lending/Documents/AI PRJ/LLM-Rebuild/train_gpt2.py:190: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = torch.cuda.amp.GradScaler(enabled=(dtype == 'float16'))
