@@ -77,3 +77,5 @@ iter 1480: loss 0.0535, time 5622.47ms, mfu 2.17%
 iter 1490: loss 0.0451, time 5627.44ms, mfu 2.18%
 iter 1500: loss 0.0437, time 5653.02ms, mfu 2.18%
 iter 1510: loss 0.0410, time 5656.46ms, mfu 2.17%
+iter 1520: loss 0.0432, time 5673.11ms, mfu 2.17%
+iter 1530: loss 0.0483, time 5662.25ms, mfu 2.17%
